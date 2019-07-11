@@ -1,0 +1,11 @@
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/bin/Debug/netcoreapp2.1/botMegaSena.deps.json
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/bin/Debug/netcoreapp2.1/botMegaSena.runtimeconfig.json
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/bin/Debug/netcoreapp2.1/botMegaSena.runtimeconfig.dev.json
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/bin/Debug/netcoreapp2.1/botMegaSena.dll
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/bin/Debug/netcoreapp2.1/botMegaSena.pdb
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/obj/Debug/netcoreapp2.1/botMegaSena.csprojAssemblyReference.cache
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/obj/Debug/netcoreapp2.1/botMegaSena.csproj.CoreCompileInputs.cache
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/obj/Debug/netcoreapp2.1/botMegaSena.AssemblyInfoInputs.cache
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/obj/Debug/netcoreapp2.1/botMegaSena.AssemblyInfo.cs
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/obj/Debug/netcoreapp2.1/botMegaSena.dll
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/botMegaSena/obj/Debug/netcoreapp2.1/botMegaSena.pdb
